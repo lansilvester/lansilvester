@@ -1,4 +1,4 @@
-# In mission ➡️ *LX Bootcamp Training* 💻
+# In mission ➡️ *LX International Bootcamp* 💻
 ## ⚔️ Sparta Coding Club
 - 👋 Hi, I’m @lansilvester (Varland Lengkong)
 - 👀 I’m interested in web development
